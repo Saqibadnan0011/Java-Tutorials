@@ -61,7 +61,7 @@ System.out.println("Hello world!");
 <h3>4: Naming Conversions </h3>
 
 <ul>
-  # For classes
+ #For classes:
   <li><p>We use Pascal Convention. Which required a first and subsequent characters from word are capital letters. ( UPPERCASE )</p></li>
 
   
@@ -69,13 +69,14 @@ System.out.println("Hello world!");
 Example: Main, MyScanner, MyCode, SaqibAdnan
   ```
 
+ #For Functions and Variables:
+ <li><p>We use camelCase Convention. Here the first character is (LOWERCASE) and the sebsequent character should be (UPPERCASE)</p></li>
+
+ ```java
+Example: myScnnner, myCode, saqibAdnan
+  ```
+
 </ul>
 
 
-
-
-
-
-
-
-
+<h2>Java CheaSheet <a href = "https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/UltimateJavaCheatSheet.pdf">Click To See</a></h2>
