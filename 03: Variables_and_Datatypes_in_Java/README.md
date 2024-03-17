@@ -57,6 +57,8 @@ public class Test {
  public static void main(String args[]) {
    Test test = new Test();
    test.myAge();
+  }
+}
 
 ```
 
@@ -68,6 +70,55 @@ Saqib age is: 22
 
 ```
 
+<h3>02: Instance Variables:</h3>
+
+<ul>
+  <li><p>Instance variable are declared in a class, but outside a method, constructor or any block.</p></li>
+  <li><p>Access modifiers can be give for instance variables.</p></li>
+</ul>
+
+```java
+
+public class Employee {
+  public String name;
+
+  //salary variables is visible in employee class
+  private double salary;
+
+  //name assigned in constructor
+  public Employee(String employeeName) {
+    name = employeeName;
+  }
+
+  //Salary is assigned a value
+  public void setSalary(double employeeSalary) {
+    salary = employeeSalay;
+  }
+
+  //Method for printing the employee details
+  public void printEmployee() {
+    System.out.println("Employee Name : " + name);
+    System.out.println("Employee Salary: " + salary);
+  }
+
+  //main
+  public static void main(Stirng args[]) {
+    Employee employeeOne = new Employee("Saqib");
+    employeeOne.setSalary(50000);
+    employeeOne.printEmployee();
+
+```
+
+```java
+
+output:
+
+Employee Name : Saqib Adnan
+Employee Salary : 50000.0
+
+```
+
+<h3>03: Static Variables:</h3>
 
 
 
