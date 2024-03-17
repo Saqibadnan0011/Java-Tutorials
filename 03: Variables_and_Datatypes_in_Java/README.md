@@ -2,7 +2,7 @@
 
 <li><p>Java have its own rules to write the code in java language, which is called syntax. And those rules just like any other programming language and simple English language (like Grammer and Vocabulary ). So Java have it's own Grammer and Vocabulary in shape of Variables and Datatypes.</p></li>
 
-<h2>Variables</h2>
+<h1>Variables ↗️</h1>
 
 <ul>
   <li><p>In Java variable must be declared before using it.</p></li>
@@ -64,7 +64,7 @@ public class Test {
 
 ```java
 
-output
+output:
 
 Saqib age is: 22
 
@@ -120,9 +120,62 @@ Employee Salary : 50000.0
 
 <h3>03: Static Variables:</h3>
 
+<ul>
+  <li><p>Class variables also known as static variables are declared with the static keywords in a class, but outside the  method, contructor or block.</p></li>
+  <li><p>Static variables are rarely used other than being declared as constants.</p></li>
+  <li><p>Static variables stored in staic memory. It is rare to use static variables rather than declaring the final and used public and private constants.</p></li>
+</ul>
 
+```java
 
+public class Employee {
 
+  //declare salary variable in private static variable
+  private static double salary;
+
+  //Domain in constants
+  public static final String DOMAIN = "Java Developer ";
+
+  //Main
+  public static void main(String args[]) {
+  salary = 130000;
+  System.out.println(DOMAIN + "average salary:" + salary);
+  
+  }
+}
+
+```
+```java
+
+output:
+
+iOS Developer average salary: 130000
+
+```
+
+<h1>Data Types ↗️</h1>
+
+<p>Data types in Java are following two categories</p>
+
+<ul>
+  <li>Primitive Data Types</li>
+  <li>Non-Primitive Data Types</li>
+</ul>
+
+<h3>Primitive Data Types</h3>
+
+<li>Java supports 8 primitive data types and in Java variables must be declared before using the data types.</li>
+
+<img width="1004" alt="Screenshot 2024-03-18 at 12 03 49 AM" src="https://github.com/Saqibadnan0011/Java-Tutorials/assets/79377722/0f6f6f03-0b27-46ee-84d1-05027363c278">
+
+<h3>Non-Primitive Data Types</h3>
+
+<ul>
+  <li>String Data Type</li>
+  <li>Array Data Type</li>
+</ul>
+
+<h1>Java CheatSheet <a href = "https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/UltimateJavaCheatSheet.pdf">Click To See</a></h1>
 
 
 
