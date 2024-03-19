@@ -54,7 +54,7 @@ public class Test {
     System.out.println("Saqib age is : " + age);
   }
 
- public static void main(String args[]) {
+ public static void main(String[] args) {
    Test test = new Test();
    test.myAge();
   }
@@ -102,7 +102,7 @@ public class Employee {
   }
 
   //main
-  public static void main(Stirng args[]) {
+  public static void main(Stirng[] args) {
     Employee employeeOne = new Employee("Saqib");
     employeeOne.setSalary(50000);
     employeeOne.printEmployee();
@@ -137,7 +137,7 @@ public class Employee {
   public static final String DOMAIN = "Java Developer ";
 
   //Main
-  public static void main(String args[]) {
+  public static void main(String[] args) {
   salary = 130000;
   System.out.println(DOMAIN + "average salary:" + salary);
   
