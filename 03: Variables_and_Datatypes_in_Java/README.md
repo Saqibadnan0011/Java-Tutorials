@@ -170,9 +170,12 @@ iOS Developer average salary: 130000
 
 <h3>Non-Primitive Data Types</h3>
 
+<p>Non-Primitive data types are not predefined in java. We can add them manually and non-primitive data types are also called "Reference Variables" or "Object Reference"</p>
+
 <ul>
   <li>String Data Type</li>
   <li>Array Data Type</li>
+  <li>Classes Data type</li>
 </ul>
 
 <h1>Java CheatSheet <a href = "https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/UltimateJavaCheatSheet.pdf">Click To See</a></h1>
