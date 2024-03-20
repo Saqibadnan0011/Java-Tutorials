@@ -153,6 +153,8 @@ iOS Developer average salary: 130000
 
 ```
 
+<p>You can see different code examples related to variables in Java in attached file.</p>
+
 <h1>Data Types ↗️</h1>
 
 <p>Data types in Java are following two categories</p>
@@ -175,8 +177,11 @@ iOS Developer average salary: 130000
 <ul>
   <li>String Data Type</li>
   <li>Array Data Type</li>
-  <li>Classes Data type</li>
+  <li>Classes Data Type</li>
 </ul>
+
+<p>You can see different code examples related to variables in Java in attached file.</p>
+
 
 <h1>Java CheatSheet <a href = "https://api.codewithharry.com/media/videoSeriesFiles/courseFiles/java-tutorials-for-beginners-1/UltimateJavaCheatSheet.pdf">Click To See</a></h1>
 
