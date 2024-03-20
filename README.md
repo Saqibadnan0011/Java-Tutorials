@@ -32,8 +32,9 @@
 </ul>
 
 <ul>
-  <li><a href = "https://github.com/Saqibadnan0011/Java-Tutorials/tree/main/03%3A%20Variables_and_Datatypes_in_Java/VariablesCodeExamples" >Variables and Datatypes</a></li>
+  <li><a href = "" >Variables and Datatypes</a></li>
   <ul>
+    <li><a href = "https://github.com/Saqibadnan0011/Java-Tutorials/tree/main/03%3A%20Variables_and_Datatypes_in_Java" >Explanation</a></li>
     <li><a href = "https://github.com/Saqibadnan0011/Java-Tutorials/blob/main/03%3A%20Variables_and_Datatypes_in_Java/VariablesCodeExamples/LocalVariables.java" >Local Variable</a></li>
     <li><a href = "https://github.com/Saqibadnan0011/Java-Tutorials/blob/main/03%3A%20Variables_and_Datatypes_in_Java/VariablesCodeExamples/InstanceVariables.java" >Instance Variable</a></li>
     <li><a href = "https://github.com/Saqibadnan0011/Java-Tutorials/blob/main/03%3A%20Variables_and_Datatypes_in_Java/VariablesCodeExamples/StaticVariables.java" >Static Variable</a></li>
