@@ -170,6 +170,149 @@ iOS Developer average salary: 130000
 
 <img width="1004" alt="Screenshot 2024-03-18 at 12 03 49 AM" src="https://github.com/Saqibadnan0011/Java-Tutorials/assets/79377722/0f6f6f03-0b27-46ee-84d1-05027363c278">
 
+<h3>01: Boolean DataType</h3>
+
+
+```java
+
+syntax:
+
+boolean variable_name = value (true,false);
+
+```
+
+```java
+
+public class BooleanData {
+  public static void main (String[] args) {
+
+   // b1 and b2 initialize the same value
+    Boolean b1 = new Boolean(false);
+    Boolean b2 = new Boolean(false);
+
+  // So, if the equal method, value get the same execuation this will print the output ( is equal) otherwise ( isn't equal)
+
+  if (b1.equal(b2)) {
+     System.out.println("b1 is equal to b2");
+  } else {
+     System.out.println("b1 is not equal to b2");
+      }
+   }
+}
+
+```
+
+```java
+
+output:
+
+b1 is equal to b2
+
+```
+
+<h3>02: Char DataType</h3>
+
+```java
+
+syntax:
+
+char variable_name = 'variable_value';
+
+```
+
+```java
+
+public class charData {
+  public static void main (String[] args) {
+
+    // Since ASCII value for the A and C are 65 and 67
+    char c1, c2, c3;
+    c1 = 65;
+    c2 = 'B';
+    c3 = 67;
+    System.out,println("Character are: " + c1 + c2 + c3);
+
+   }
+}
+
+```
+
+```java
+
+output:
+
+Character are: ABC
+
+```
+
+<h3>03: Integer DataType</h3>
+
+```java
+
+syntax:
+
+int number = [numbericalValue];
+
+```
+
+```java
+
+public class charData {
+  public static void main (String[] args) {
+     int min = -2147483648;
+     int max = 2147483647;
+     System.out.println("min value of integer is: " + min);
+     System.out.println("max value of integer is: " + max);
+
+   }
+}
+
+```
+
+```java
+
+output:
+
+min value of integer is: -2147483648
+max value of integer is: 2147483647
+
+
+```
+
+<h3>04: Short DataType</h3>
+
+```java
+
+syntax:
+
+short variable_name = value;
+
+```
+
+```java
+
+public class charData {
+  public static void main (String[] args) {
+
+     short a = -32768;
+     short b = 32767;
+     System.out.println("a: " + a);
+     System.out.println("b: " + b);
+
+   }
+}
+
+```
+
+```java
+
+output:
+
+a: -32768
+b: 32767
+
+```
+
 <h3>Non-Primitive Data Types</h3>
 
 <p>Non-Primitive data types are not predefined in java. We can add them manually and non-primitive data types are also called "Reference Variables" or "Object Reference"</p>
