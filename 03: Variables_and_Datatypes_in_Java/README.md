@@ -257,7 +257,7 @@ int number = [numbericalValue];
 
 ```java
 
-public class charData {
+public class integerData {
   public static void main (String[] args) {
      int min = -2147483648;
      int max = 2147483647;
@@ -285,13 +285,13 @@ max value of integer is: 2147483647
 
 syntax:
 
-short variable_name = value;
+short  = ;
 
 ```
 
 ```java
 
-public class charData {
+public class shortData {
   public static void main (String[] args) {
 
      short a = -32768;
@@ -310,6 +310,108 @@ output:
 
 a: -32768
 b: 32767
+
+```
+
+<h3>05: Long DataType</h3>
+
+```java
+
+syntax:
+
+long  = ;
+
+```
+
+```java
+
+public class longData {
+  public static void main (String[] args) {
+
+     long a = -9223372036854775808;
+     long b = 9223372036854775807;
+     System.out.println("a: " + a);
+     System.out.println("b: " + b);
+
+   }
+}
+
+```
+
+```java
+
+output:
+
+a: -9223372036854775808
+b: 9223372036854775807
+
+```
+
+<h3>06: Float DataType</h3>
+
+```java
+
+syntax:
+
+float  = ;
+
+```
+
+```java
+
+public class floatData {
+  public static void main (String[] args) {
+
+     float a = 22.6f;
+     float b = 100.0f;
+     System.out.println("a: " + a);
+     System.out.println("b: " + b);
+
+   }
+}
+
+```
+
+```java
+
+output:
+
+a: 22.8f
+b: 100.0f
+
+```
+
+<h3>07: Byte DataType</h3>
+
+```java
+
+syntax:
+
+byte variable_name = integer_value;
+
+```
+
+```java
+
+public class byteData {
+  public static void main (String[] args) {
+
+     byte a = 80;
+     byte b = -50;
+     System.out.println("a: " + a);
+     System.out.println("b: " + b);
+
+   }
+}
+
+```
+
+```java
+
+output:
+
+a: 80
+b: -40
 
 ```
 
