@@ -6,7 +6,7 @@
 
 <h2>📝 How to Utilize</h2>
 <p>
-  Explore the folder that interests you. Each folder and README file gives you al the explanation, Notes, Different examples, Different code examples and solutions and more.
+  Explore the folder that interests you. Each folder and README file gives you all the explanation, Notes, Different examples, Different code examples and solutions and more.
 </p>
 
 <h2>🤝 Contribution</h2>
