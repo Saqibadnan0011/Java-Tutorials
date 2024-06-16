@@ -1,7 +1,7 @@
 # Java-Tutorials (My Learning Repository) 📚
 
 <p>
-  Welcome to Java Tutorial playlist, 1 I orgaize my learning and insights.Each folder represents a specific topic, containing informative READMEs with valuable information, code snippets, and resources.
+  Welcome to Java Tutorial playlist, 11 I orgaize my learning and insights.Each folder represents a specific topic, containing informative READMEs with valuable information, code snippets, and resources.
 </p>
 
 <h2>📝 How to Utilize</h2>
